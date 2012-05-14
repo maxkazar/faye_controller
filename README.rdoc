@@ -1,6 +1,6 @@
 = Faye Controller
 
-Faye Controller gem is designed for use faye pubsub like rails controller.
+Faye Controller gem is designed for use faye[http://faye.jcoglan.com/] pubsub like rails controller.
 
 == Installation
 
